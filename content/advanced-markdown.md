@@ -1,5 +1,5 @@
 ---
-title: Advanced Markdown tips
+title: Begginner Markdown tips
 image: /images/advanced.jpg
 imageMeta:
   attribution:
